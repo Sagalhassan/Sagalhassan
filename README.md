@@ -1,13 +1,13 @@
 <p align="center">
-<a href="#about-me"><img src="images/nav/about-me.png" height="24" alt="About Me"></a>&nbsp;
-<a href="#skills"><img src="images/nav/skills.png" height="24" alt="Skills"></a>&nbsp;
-<a href="#projects"><img src="images/nav/projects.png" height="24" alt="Projects"></a>&nbsp;
-<a href="#work-experience"><img src="images/nav/work-experience.png" height="24" alt="Work Experience"></a>&nbsp;
-<a href="#education"><img src="images/nav/education.png" height="24" alt="Education"></a>
+<a href="#about-me"><img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/nav-about-me.png" height="24" alt="About Me"></a>&nbsp;
+<a href="#skills"><img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/nav-skills.png" height="24" alt="Skills"></a>&nbsp;
+<a href="#projects"><img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/nav-projects.png" height="24" alt="Projects"></a>&nbsp;
+<a href="#work-experience"><img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/nav-work-experience.png" height="24" alt="Work Experience"></a>&nbsp;
+<a href="#education"><img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/nav-education.png" height="24" alt="Education"></a>
 </p>
 
 <a name="about-me"></a>
-<img src="images/headshot-framed.png" align="left" width="250" alt="Sagal Hassan">
+<img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/headshot-framed.png" align="left" width="250" alt="Sagal Hassan">
 
 <h1>Sagal Hassan</h1>
 
@@ -24,10 +24,10 @@ Hi, I'm Sagal! I'm a first-generation college student and a senior at the Univer
 
 Most recently, I completed a Sales Excellence Data Analyst internship at Viega LLC, where I built a Power BI dashboard for a 46-person customer service team and automated a weekly process that used to take separate macros in a 50,000-row workbook. I enjoy automating manual processes and making them easier for the people who rely on them.
 
-After I graduate, I'm looking for full-time roles in consulting, data analytics, or business analytics in Denver.
+I am currently looking for full-time roles in consulting, data analytics, or business analytics in Denver with the intention to start june 2027.
 
 <a name="skills"></a>
-<img src="images/skills.png" height="46" alt="Skills">
+<img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/skills.png" height="46" alt="Skills">
 
 **Programming Languages**<br>
 Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; R &nbsp;·&nbsp; Visual Basic (VBA) &nbsp;·&nbsp; HTML &nbsp;·&nbsp; JavaScript
@@ -40,13 +40,13 @@ Microsoft Office Specialist: Excel, Word, and PowerPoint<br>
 Adult and Pediatric First Aid/CPR/AED
 
 <a name="projects"></a>
-<img src="images/projects.png" height="46" alt="Projects">
+<img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/projects.png" height="46" alt="Projects">
 
 ### Southwest Airlines Data Mart & BI
 
 *SQL Server · SSIS · Python (pandas, SciPy) · Power BI*
 
-<img src="images/southwest-dashboard.png" alt="Southwest Airlines executive dashboard in Power BI">
+<img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/southwest-dashboard.png" alt="Southwest Airlines executive dashboard in Power BI">
 
 **Problem:** Reservation, flight, customer, and payment data sat in separate tables, so there was no single view of how bookings, revenue, and flight reliability were performing.
 
@@ -57,7 +57,7 @@ Adult and Pediatric First Aid/CPR/AED
 **Impact:** The dashboard showed that every cancellation and delay came from just six routes, that holiday months had almost no bookings compared with summer, and that Bronze members, the smallest tier, had the highest average reservation value at $831.
 
 <a name="work-experience"></a>
-<img src="images/work-experience.png" height="46" alt="Work Experience">
+<img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/work-experience.png" height="46" alt="Work Experience">
 
 ### Sales Excellence Data Analyst Intern, Viega LLC
 
@@ -65,7 +65,7 @@ Adult and Pediatric First Aid/CPR/AED
 
 This past summer at Viega, I built an interactive Power BI dashboard for customer service management, replacing their manual Excel reporting. I partnered with the IT department to combine SAP, Salesforce, and Paycor data in Snowflake, wrote the SQL joins, and built the dashboard. I also automated a 50,000-row territory workbook used by several departments, adding Excel VBA macros and buttons that update specific rows from weekly CRM exports, and trained the CRM specialist to run it.
 
-Day to day, I built Salesforce reports for sales strategy and marketing, set up preloaded events and tasks for inside sales representatives, helped launch marketing campaigns and an email nurture, and fixed dashboard bugs through Jira tickets. I documented my processes for every major project so the work could be handed off to the data analyst at the end of August.
+Day to day, I built Salesforce reports for sales strategy and marketing, set up preloaded events and tasks for sales representatives, helped launch marketing campaigns and an email nurture, and fixed dashboard bugs through Jira tickets. I documented my processes for every major project so the work could be handed off to the data analyst at the end of August.
 
 **Technologies:** Power BI · Snowflake · SQL · SAP · Salesforce · Salesforce Inspector · Excel VBA · Power Automate · Atlassian Jira<br>
 **Soft Skills:** Collaboration · Teaching others · Documentation
@@ -82,7 +82,7 @@ I've worked at Home Depot throughout college, fulfilling and auditing online ord
 **Soft Skills:** Attention to detail · Prioritization · Customer service · Teamwork
 
 <a name="education"></a>
-<img src="images/education.png" height="46" alt="Education">
+<img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/education.png" height="46" alt="Education">
 
 ### University of Denver, Daniels College of Business
 
