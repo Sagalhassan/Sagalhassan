@@ -7,24 +7,32 @@
 </p>
 
 <a name="about-me"></a>
-<img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/headshot-framed.png" align="left" width="250" alt="Sagal Hassan">
 
+<table>
+<tr>
+<td width="240" valign="top">
+<img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/headshot-framed.png" width="225" alt="Sagal Hassan">
+</td>
+<td valign="top">
 <h1>Sagal Hassan</h1>
-
 <strong>Business Information &amp; Analytics | University of Denver</strong>
-
-Denver, CO<br>
+<p>Denver, CO</p>
+<p>
 720-812-3808<br>
 <a href="mailto:sagalxmohamed@gmail.com">sagalxmohamed@gmail.com</a><br>
-<a href="https://www.linkedin.com/in/sagalmhassan">LinkedIn</a> | Resume
-
-<br clear="left">
+<a href="https://www.linkedin.com/in/sagalmhassan">LinkedIn</a> | <a href="https://github.com/Sagalhassan/Sagalhassan/blob/main/Sagal_Hassan.pdf">Resume</a>
+</p>
+</td>
+</tr>
+</table>
 
 Hi, I'm Sagal! I'm a first-generation college student and a senior at the University of Denver, majoring in Business Information & Analytics, graduating in June 2027.
 
-Most recently, I completed a Sales Excellence Data Analyst internship at Viega LLC, where I built a Power BI dashboard for a 46-person customer service team and automated a weekly process that used to take separate macros in a 50,000-row workbook. I enjoy automating manual processes and making them easier for the people who rely on them.
+Most recently, I completed a Sales Excellence Data Analyst internship at Viega LLC, where I built a Power BI dashboard for a 46-person customer service team and automated a weekly process that previously required separate macros in a 50,000-row workbook. I enjoy automating manual processes and making them easier for the people who rely on them.
 
-I am currently looking for full-time roles in consulting, data analytics, or business analytics in Denver with the intention to start june 2027.
+I'm looking for full-time roles in consulting, data analytics, or business analytics in Denver, starting June 2027.
+
+<br>
 
 <a name="skills"></a>
 <img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/skills.png" height="46" alt="Skills">
@@ -38,6 +46,8 @@ Power BI &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; Snowflake &nbsp;·&nbsp; SQL Serv
 **Certifications**<br>
 Microsoft Office Specialist: Excel, Word, and PowerPoint<br>
 Adult and Pediatric First Aid/CPR/AED
+
+<br>
 
 <a name="projects"></a>
 <img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/projects.png" height="46" alt="Projects">
@@ -56,6 +66,8 @@ Adult and Pediatric First Aid/CPR/AED
 
 **Impact:** The dashboard showed that every cancellation and delay came from just six routes, that holiday months had almost no bookings compared with summer, and that Bronze members, the smallest tier, had the highest average reservation value at $831.
 
+<br>
+
 <a name="work-experience"></a>
 <img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/work-experience.png" height="46" alt="Work Experience">
 
@@ -65,7 +77,7 @@ Adult and Pediatric First Aid/CPR/AED
 
 This past summer at Viega, I built an interactive Power BI dashboard for customer service management, replacing their manual Excel reporting. I partnered with the IT department to combine SAP, Salesforce, and Paycor data in Snowflake, wrote the SQL joins, and built the dashboard. I also automated a 50,000-row territory workbook used by several departments, adding Excel VBA macros and buttons that update specific rows from weekly CRM exports, and trained the CRM specialist to run it.
 
-Day to day, I built Salesforce reports for sales strategy and marketing, set up preloaded events and tasks for sales representatives, helped launch marketing campaigns and an email nurture, and fixed dashboard bugs through Jira tickets. I documented my processes for every major project so the work could be handed off to the data analyst at the end of August.
+Day to day, I built Salesforce reports for sales strategy and marketing, set up preloaded events and tasks for sales representatives, helped launch marketing campaigns and an email nurture campaign, and fixed dashboard bugs through Jira tickets. I documented my processes for every major project so the work could be handed off to the data analyst at the end of August.
 
 **Technologies:** Power BI · Snowflake · SQL · SAP · Salesforce · Salesforce Inspector · Excel VBA · Power Automate · Atlassian Jira<br>
 **Soft Skills:** Collaboration · Teaching others · Documentation
@@ -81,6 +93,8 @@ I've worked at Home Depot throughout college, fulfilling and auditing online ord
 **Technologies:** Internal order fulfillment and inventory management apps · Handheld devices<br>
 **Soft Skills:** Attention to detail · Prioritization · Customer service · Teamwork
 
+<br>
+
 <a name="education"></a>
 <img src="https://raw.githubusercontent.com/Sagalhassan/Sagalhassan/main/education.png" height="46" alt="Education">
 
@@ -90,9 +104,9 @@ B.S. in Business Information & Analytics | Expected June 2027
 
 | Course | What I Learned |
 |---|---|
-| **Analytics Foundations:** INFO 1010 Data Management and Analysis → INFO 1020 Analytics II: Business Statistics and Analysis | Cleaning and organizing data in Excel with pivot tables and Solver, descriptive statistics, and preparing for the Microsoft Office Specialist Excel exam; then probability, confidence intervals, and hypothesis testing, including t-tests, ANOVA, and goodness-of-fit, to support business decisions |
+| **Analytics Foundations:** INFO 1010 Data Management and Analysis → INFO 1020 Analytics II: Business Statistics and Analysis | Cleaning and organizing data in Excel with pivot tables and Solver, descriptive statistics, and preparing for the Microsoft Office Specialist Excel exam; then probability, confidence intervals, and hypothesis testing, including t-tests, ANOVA, and goodness-of-fit tests, to support business decisions |
 | **INFO 2020:** Business Modeling and Analysis | Multiple regression with binary variables and model assumptions; time series forecasting with moving averages, exponential smoothing, and trend and seasonal analysis; and spreadsheet decision models using what-if analysis, data tables, Goal Seek, and formula auditing |
-| **Excel and Automation:** 1031 Advanced Excel Lab → INFO 3100 Automating Business Processes | Advanced Excel and automating tasks with VBA, then Python for data handling, summaries, pivot tables, and basic statistical tests |
+| **Excel and Automation:** INFO 1031 Advanced Excel Lab → INFO 3100 Automating Business Processes | Advanced Excel and automating tasks with VBA, then Python for data handling, summaries, pivot tables, and basic statistical tests |
 | **Database Sequence:** INFO 3140 Foundations of Information Management → INFO 3240 Enterprise Information Management → INFO 3300 Data Warehousing and Business Intelligence | Relational database design with ER diagrams, business rules, and primary and foreign keys; SQL queries using joins, subqueries, GROUP BY, HAVING, and set operations; building databases in SQL Server and Visual Studio; and dimensional modeling, star schemas, and ETL to load a data mart for reporting |
 | **INFO 3200:** Data Mining and Visualization | Used R and RStudio to work through the full modeling process, from data preprocessing, PCA, and clustering to time series forecasting and classification with Naive Bayes, decision trees, k-nearest neighbors, logistic regression, and random forests. Evaluated models with confusion matrices and cross-validation, and built a final interactive Shiny app with Quarto reports |
 | **INFO 3340:** Project Management and Simulation | Project management principles and building, analyzing, and reporting Monte Carlo simulations |
